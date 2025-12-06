@@ -2,7 +2,7 @@
 name = "repo_artifactory_lookup_issue"
 version = "0.1.0"
 description = "Test repository for Renovate bug reproduction"
-authors = ["Your Name <your-email@example.com>"]  # ← Update this
+authors = ["Shashi Kanth <shashikanth972@outlook.com>"]
 readme = "README.md"
 packages = [{include = "app"}, {include = "helpers"}]
 
